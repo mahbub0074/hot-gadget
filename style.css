@@ -1,0 +1,109 @@
+
+.container{
+    margin-bottom: 30px;
+  
+}
+.bg-light
+{
+background-color: white !important;
+}
+
+.carousel-indicators li {
+    background-image: linear-gradient(to left,#ffb15dee 0%,#FF9C35 100%);
+    height: 7px;
+    width: 12px;
+    border-radius: 100px;
+    border: none;
+
+}
+.carousel-indicators .active {
+
+    background-image: linear-gradient(to left,#ffb15dee 0%,#FF9C35 100%);
+    width: 30px;
+}
+
+.carousel-control-next-icon {
+    background-color:gray;
+    border-radius: 10px;
+
+}
+.button-buy-now{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+.col-md-6 p{
+    color: gray;
+}
+.img-fluid{
+    max-width: 100%;
+height: auto;
+}
+.text-bg{
+    position: relative;
+    left: 40px;
+    }
+img{
+    vertical-align: middle;
+    border-style: none;
+}
+.row{
+
+    margin-left: 5px;
+    margin-right:5px;
+}
+
+.see-all a{
+    color: orange;
+}
+.card{
+  
+border: none;
+box-shadow: 3px 3px 15px lightgray;
+border-radius: 10px;
+text-align: center;
+padding: 5px 5px 5px 5px;
+}
+
+.box-cat {
+    text-align: center;
+    padding: 40px 50px;
+    border: 1px solid transparent;
+    box-shadow: 0px 5px 30px #00000020;
+    border-radius: 0 20px 0 20px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    transition: all 0.3s ease;
+}
+
+.text-cat{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 150px;
+}
+
+.box-cat{
+    align-items: center;
+}
+.gap{
+    padding-bottom:20px;
+}
+.text-cat span{
+width: 100px;
+height: 8px;
+display: block;
+margin: 10px auto 0;
+background-image: linear-gradient(90deg, #FF9C35, #FFD019);
+border-radius: 10px;
+}
+
+.footer-text{
+    text-align: center;
+}
+
+
+
+
+
